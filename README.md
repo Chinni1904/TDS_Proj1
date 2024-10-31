@@ -9,7 +9,7 @@
 I used the GitHub API to gather data on users based in Basel, filtering for those with more than 10 followers. Each user's repositories were then fetched, including details such as the number of stars, programming language, and license information.
 
 ## Interesting Findings
-One surprising discovery was that many developers in Basel primarily use a specific programming language, which is not as popular globally. This suggests a unique local trend that may influence community-driven projects and collaborations.
+I have discovered that most of the users from 2020 have preferred using Python as their programming. 
 
 ## Actionable Recommendation
 I recommend that developers focus on the most popular programming languages in Basel when contributing to local projects. This can enhance collaboration and ensure that their contributions align with the community's needs and preferences.
